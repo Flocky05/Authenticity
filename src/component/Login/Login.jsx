@@ -1,9 +1,9 @@
-import React from 'react';
-import './Login.css'
+
+
 const Login = () => {
     return (
         <div>
-            <p>This is login page</p>
+            <h2>This is login page</h2>
         </div>
     );
 };
