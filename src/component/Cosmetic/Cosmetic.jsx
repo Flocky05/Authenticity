@@ -1,7 +1,9 @@
+import { addToDb } from "../Calculation/fakeDb";
+
 const Cosmetic = (props) => {
   const { name, price,id,img } = props.data;
   const addToCart=(id)=>{
-    console.log('This card is added',id);
+    addToDb(id);
   }
   const addToCardWithParam=()=>addToCart(id);
   return (
