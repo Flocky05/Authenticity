@@ -1,47 +1,50 @@
 [
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Lou",
-      "price": 47
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Marva",
-      "price": 154
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Myers",
-      "price": 249
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Ora",
-      "price": 38
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Kerri",
-      "price": 461
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Marquez",
-      "price": 52
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Colette",
-      "price": 195
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Megan",
-      "price": 484
-    },
-    {
-      "id": "6383312564f5a4e7c9d6ed8d",
-      "name": "Ebony",
-      "price": 151
-    }
-  ]
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Erma",
+    "price": 347,
+    "img": "https://img.freepik.com/free-photo/environmental-engineers-working-together_23-2149352243.jpg?w=996&t=st=1694324857~exp=1694325457~hmac=36d5ee397dcc54e5dda673533f4579f4086c197671cd9d4469e7c57438256929"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Kristi",
+    "price": 199,
+    "img": "https://img.freepik.com/free-photo/full-shot-environmental-engineers-working-together_23-2149352244.jpg?t=st=1694324857~exp=1694325457~hmac=698989b22b29a1c51d273c906965738c0aadbce59ba8e2314a173c5024bfdb94"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Evangelina",
+    "price": 378,
+    "img": "https://img.freepik.com/free-photo/two-busy-businesswomen-have-unformal-meeting-outside-they-are-greeting-one-each-other-with-handshake_613910-3386.jpg?t=st=1694324857~exp=1694325457~hmac=b00ecbbb5b9a3a0a25640068e184d1f067b9a9ee6fa6a9e92bd3d27387931721"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Rosalyn",
+    "price": 128,
+    "img": "https://img.freepik.com/free-vector/cosmetics-beauty-products-makeup-sale-banner-with-glowing-neon-background-pink-sparkles_33099-1429.jpg?t=st=1694325077~exp=1694325677~hmac=4d3d31f8847d97070d238e4ee844c4e19c815e9c91be2eb2900d2473c109627c"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Pate",
+    "price": 278,
+    "img": "https://img.freepik.com/free-vector/night-cosmetic-series-face-skin-care-realistic-vector_88138-127.jpg?w=1060&t=st=1694325093~exp=1694325693~hmac=1f90e3b5af622d4199fd55d7e9874f1932b7dcf7a58e7fc89ac88f5af435fe57"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Rutledge",
+    "price": 232,
+    "img": "https://img.freepik.com/free-photo/beauty-products-recipients-assortment-grey-stones_23-2148761390.jpg?w=900&t=st=1694325112~exp=1694325712~hmac=1d1f2742a9e6e9aa6427baf66c1b5b96d73d31cc7e88d307c3f836df644b534a"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Klein",
+    "price": 302,
+    "img": "https://img.freepik.com/free-photo/cosmetics-product-advertising-stand-exhibition-wooden-podium-green-background-with-leaves-sha_1258-170082.jpg?t=st=1694325135~exp=1694328735~hmac=3f2197aa108f13526e182d869115b5653595dc732941d770dfc5212703770b7b&w=900"
+  },
+  {
+    "id": "6383312564f5a4e7c9d6ed8d",
+    "name": "Lottie",
+    "price": 493,
+    "img": "https://img.freepik.com/free-photo/variety-fresh-organic-herbs-lettuce-arugula-dill-mint-red-lettuce-onion-rustic-style-top-view_2829-5326.jpg?w=996&t=st=1694325151~exp=1694325751~hmac=04d1de0932da06d14acad85a91f3d7b756ffd1a0046fbe004273278252b3a0c0"
+  }
+]
