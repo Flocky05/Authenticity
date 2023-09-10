@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import img from "../../assets/images/home/home.avif"
-import './Home.css'
 const Home = () => {
     return (
         <div className="relative">
