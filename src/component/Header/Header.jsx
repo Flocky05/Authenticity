@@ -7,8 +7,9 @@ const Header = () => {
             <div>
                 <Link to="/">Home</Link>
             </div>
-            <div className='grid grid-cols-3 w-2/4 '>
+            <div className='grid grid-cols-4 w-2/4 '>
                 <Link to="/blog" >Blog</Link>
+                <Link to="/movies" >Movies</Link>
                 <Link to="/about-us">About Us</Link>
                 <Link to="/register">Register</Link>
             </div>
