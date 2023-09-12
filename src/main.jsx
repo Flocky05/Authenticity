@@ -12,6 +12,7 @@ import Main from './component/Layout/Main.jsx';
 import AboutUS from './component/About Us/AboutUS.jsx';
 import Blog from './component/Blog/Blog';
 import Movies from './component/Movies/Movies';
+import MovieDetail from './component/MovieDetails/MovieDetail';
 
 const router = createBrowserRouter([
   {
@@ -39,6 +40,9 @@ const router = createBrowserRouter([
       },{
         path:"/movies",
         element:<Movies></Movies>
+      },{
+        path:"/movieDetails",
+        element:<MovieDetail></MovieDetail>
       }
     ]
   },
