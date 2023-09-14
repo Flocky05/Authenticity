@@ -19,7 +19,7 @@ const Products = () => {
                     ></ProductCard>)
                 }
             </div>
-            <div>
+            <div className="bg-red-200 m-4 p-4">
                 <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet delectus dolore, aspernatur officiis nostrum error totam consectetur voluptatibus soluta impedit?</h3>
             </div>
         </div>
