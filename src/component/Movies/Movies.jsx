@@ -20,6 +20,7 @@ const Movies = () => {
                 data={flim}
                 ></MovieCard>)
            }
+           
         </div>
         </div>
     );

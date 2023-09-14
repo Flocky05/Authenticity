@@ -10,7 +10,7 @@ const MovieCard = (props) => {
                 <p>Released Date :{Released} </p>
                 <p>plot :{Plot} </p>
                 <p className="mb-4">Language :{Language} </p>
-                <a className="bg-blue-800 px-4 py-1 rounded-lg" href="/movieDetails">more</a>
+                <a className="bg-blue-800 px-4 py-1 rounded-lg" href={"/movieDetails?Title="+Title}>more</a>
             </div>
         </div>
     );
