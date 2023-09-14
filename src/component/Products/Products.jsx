@@ -25,9 +25,10 @@ const Products = () => {
                     ></ProductCard>)
                 }
             </div>
-            <div className="bg-red-200 m-4 p-4">
+            <div className="bg-orange-200 p-2 text-center">
                 <h3 className="text-xl font-semibold">Order Summary</h3>
                 <h3>selected product numbers are:{cart.length}</h3>
+                <button className="bg-red-500 text-white px-4 py-1 rounded-lg w-3/5">calculate</button>
             </div>
         </div>
     );
